@@ -26,3 +26,4 @@ Python3
 Josep Monzonis Hernandez, [Micro Pico Racers](https://store.steampowered.com/app/816500/Micro_Pico_Racers/)
 - Background Music: Unknown
 - Explosion Animation: Jonaya ([Source](https://gifer.com/en/4xjg))
+- Original Game Idea: sentdex ([Tutorial followed](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdLkP8MrOXLe_rKuf6r80KO))
