@@ -9,7 +9,7 @@ arrow keys to avoid traffic and try to survive for as long as possible.
 ### Q: Why on earth am I uploading a project from 4 years ago?
 A: I recently updated my WSL to allow it to support Linux GUI applications in order 
 to work on my AI assignment. Remembering that I had saved the old files from my old
-SDD project, I decided to try running it for the first time in years. To my surprise, after installing pygame, it ran completely as expected! Excited, I decided to upload
+SDD project, I decided to try running it for the first time in years. To my surprise, after installing pygame, it ran completely as expected! Excitedly, I decided to upload
 it to my repo, just to make sure it's preserved forever :)
 
 ### Q: Why are all the assets in the root folder?
